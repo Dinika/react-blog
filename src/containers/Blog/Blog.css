@@ -20,6 +20,6 @@
     color: white;
 }
 
-.Blog a:active, .Blog a:hover {
+.Blog a:active, .Blog a:hover, .Blog a.active {
     color: rgb(53, 151, 197);
 }
